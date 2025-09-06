@@ -16,7 +16,7 @@ class DataLoader {
      * @param {string} filepath - Path to the JSON file
      * @returns {Promise<Object>} - News data
      */
-    async loadNewsData(filepath = '/data/news.json') {
+    async loadNewsData(filepath = 'news.json') {
         // Check cache first
         if (this.cache.has(filepath)) {
             return this.cache.get(filepath);
@@ -432,5 +432,6 @@ class DataLoader {
 
 // Create and export singleton instance
 const dataLoader = new DataLoader();
+
 
 export default dataLoader;
