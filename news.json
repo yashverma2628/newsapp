@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0",
-    "lastUpdated": "2024-09-06T10:30:00Z"
+    "lastUpdated": "2025-10-28T05:00:00Z"
   },
   "hero": {
     "title": "Top Stories",
@@ -9,12 +9,12 @@
     "items": [
       {
         "id": "hero-001",
-        "title": "Global Climate Summit Reaches Historic Agreement",
-        "slug": "global-climate-summit-historic-agreement",
-        "summary": "World leaders unite to commit to ambitious carbon reduction targets in unprecedented deal that could reshape the future of environmental policy.",
-        "content": "<p>In a landmark moment for global environmental policy, leaders from 195 countries have reached a historic agreement at the Global Climate Summit...</p>",
-        "publishedAt": "2024-09-06T08:00:00Z",
-        "updatedAt": "2024-09-06T09:15:00Z",
+        "title": "COP29 Climate Summit Yields $300B Finance Agreement",
+        "slug": "cop29-climate-summit-finance-agreement",
+        "summary": "At the COP29 climate summit in Baku, nearly 200 countries agreed to a landmark climate finance fund of $300 billion per year to aid developing nations in combating climate change, a major increase over previous commitments.",
+        "content": "<p>In a historic outcome at COP29, delegates agreed on a climate finance package of $300 billion annually to support poorer nations' transition away from fossil fuels. This triples the prior $100B goal and was negotiated under intense pressure from vulnerable countries. Negotiators said the money – aimed at clean energy and adaptation – is an important ‘down payment’ on global climate efforts, though many activists criticized it as far short of the funds needed.</p>",
+        "publishedAt": "2025-11-24T08:00:00Z",
+        "updatedAt": "2025-11-24T09:15:00Z",
         "author": {
           "id": "auth-001",
           "name": "Sarah Chen",
@@ -23,23 +23,23 @@
         },
         "section": "geopolitics",
         "categories": ["Environment", "Policy", "International"],
-        "tags": ["climate change", "summit", "environment", "policy"],
+        "tags": ["climate change", "summit", "finance", "policy"],
         "readingTime": 8,
         "featured": true,
         "images": {
           "lead": {
-            "alt": "World leaders shaking hands at climate summit",
-            "credits": "Reuters/John Smith",
+            "alt": "World leaders at COP29 climate summit podium",
+            "credits": "UNFCC/Kiara Worth",
             "sources": [
-              {"url": "/assets/images/climate-summit-1200.jpg", "width": 1200},
-              {"url": "/assets/images/climate-summit-800.jpg", "width": 800},
-              {"url": "/assets/images/climate-summit-400.jpg", "width": 400}
+              {"url": "https://source.unsplash.com/1200x800/?climate,summit", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?climate,summit", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?climate,summit", "width": 400}
             ]
           }
         },
         "social": {
-          "ogTitle": "Historic Climate Agreement Reached at Global Summit",
-          "ogDescription": "World leaders commit to ambitious carbon reduction targets in unprecedented environmental deal."
+          "ogTitle": "Historic Climate Finance Deal Reached at COP29",
+          "ogDescription": "Nations commit to $300B annual fund for developing countries to fight climate change."
         },
         "sponsored": false,
         "sponsor": null,
@@ -48,11 +48,12 @@
       },
       {
         "id": "hero-002",
-        "title": "Tech Giant Unveils Revolutionary AI Assistant",
-        "slug": "tech-giant-revolutionary-ai-assistant",
-        "summary": "New artificial intelligence system promises to transform workplace productivity with advanced natural language processing capabilities.",
-        "content": "<p>Technology industry leaders gathered yesterday to witness the unveiling of what could be the most advanced AI assistant to date...</p>",
-        "publishedAt": "2024-09-06T07:30:00Z",
+        "title": "Google Unveils 'Gemini for Home' AI Assistant",
+        "slug": "google-gemini-home-ai-assistant",
+        "summary": "At its annual event, Google introduced 'Gemini for Home', a new AI-powered assistant for Nest speakers and displays. The assistant, built on the advanced Gemini AI models, promises more natural conversations and on-demand expertise for household tasks.",
+        "content": "<p>Google announced a new AI assistant called 'Gemini for Home', which will replace its existing Google Assistant on Nest devices. Powered by Google’s latest Gemini models, the assistant offers more conversational control and embedded expert knowledge for everyday tasks. In demos, the system could handle complex queries, from planning recipes to explaining difficult concepts. Google says a public preview begins in October, with a full rollout expected soon thereafter.</p>",
+        "publishedAt": "2025-08-20T07:30:00Z",
+        "updatedAt": "2025-08-20T08:30:00Z",
         "author": {
           "id": "auth-002",
           "name": "Michael Rodriguez",
@@ -66,17 +67,18 @@
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Futuristic AI interface on multiple screens",
-            "credits": "TechCorp Media",
+            "alt": "Google product launch event with AI visuals",
+            "credits": "Google",
             "sources": [
-              {"url": "/assets/images/ai-assistant-1200.jpg", "width": 1200},
-              {"url": "/assets/images/ai-assistant-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?technology,ai", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?technology,ai", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?technology,ai", "width": 400}
             ]
           }
         },
         "social": {
-          "ogTitle": "Revolutionary AI Assistant Changes Everything",
-          "ogDescription": "Advanced natural language processing promises workplace transformation."
+          "ogTitle": "Google Introduces Gemini-Powered AI for Home Devices",
+          "ogDescription": "Advanced AI assistant promises smarter interactions on Nest speakers and displays."
         },
         "sponsored": false,
         "sponsor": null,
@@ -85,11 +87,12 @@
       },
       {
         "id": "hero-003",
-        "title": "Championship Final Breaks Viewership Records",
-        "slug": "championship-final-viewership-records",
-        "summary": "Over 2 billion viewers worldwide tuned in to watch the most-watched sporting event in history.",
-        "content": "<p>Last night's championship final shattered all previous viewership records, with streaming platforms reporting unprecedented demand...</p>",
-        "publishedAt": "2024-09-06T06:00:00Z",
+        "title": "Women's World Cup Final Breaks Global Viewership Records",
+        "slug": "womens-world-cup-final-viewership-records",
+        "summary": "Last month’s FIFA Women’s World Cup final between Spain and England drew record global audiences, with an estimated reach exceeding 2 billion viewers worldwide.",
+        "content": "<p>The 2023 FIFA Women’s World Cup final shattered viewing records. Organizers estimate that the match reached over 2 billion people globally, making it one of the most-watched sports events in history. National broadcasters reported unprecedented numbers: in Spain, the final peaked at 7.4 million TV viewers, while in the UK a combined 14.4 million tuned in. Stadium attendance also hit new highs, with nearly 1.9 million fans attending matches throughout the tournament.</p>",
+        "publishedAt": "2025-02-10T06:00:00Z",
+        "updatedAt": "2025-02-10T06:30:00Z",
         "author": {
           "id": "auth-003",
           "name": "Emma Thompson",
@@ -98,22 +101,23 @@
         },
         "section": "sports",
         "categories": ["Sports", "Entertainment", "Records"],
-        "tags": ["championship", "viewership", "sports", "records"],
+        "tags": ["championship", "viewership", "women's soccer", "records"],
         "readingTime": 4,
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Packed stadium during championship final",
+            "alt": "Packed stadium during Women's World Cup final",
             "credits": "Sports Media Network",
             "sources": [
-              {"url": "/assets/images/championship-1200.jpg", "width": 1200},
-              {"url": "/assets/images/championship-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?soccer,stadium", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?soccer,stadium", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?soccer,stadium", "width": 400}
             ]
           }
         },
         "social": {
-          "ogTitle": "Championship Final Breaks All Viewership Records",
-          "ogDescription": "Over 2 billion viewers watch historic sporting event."
+          "ogTitle": "Record-Breaking Audience for Women's World Cup Final",
+          "ogDescription": "Over 2 billion viewers worldwide watch historic soccer championship."
         },
         "sponsored": false,
         "sponsor": null,
@@ -127,11 +131,11 @@
     "items": [
       {
         "id": "geo-001",
-        "title": "Trade Agreement Reshapes Economic Landscape",
-        "slug": "trade-agreement-reshapes-economic-landscape",
-        "summary": "New multilateral trade deal between major economies expected to boost global commerce by 15% over next decade.",
-        "content": "<p>Economic analysts are calling it the most significant trade agreement since NAFTA...</p>",
-        "publishedAt": "2024-09-06T05:45:00Z",
+        "title": "Taiwan and U.S. Sign Landmark Trade Pact",
+        "slug": "taiwan-us-trade-initiative-agreement",
+        "summary": "Taiwan and the United States formalized their first trade agreement under a new initiative, focusing on areas like anti-corruption and customs. Officials hope the deal will deepen economic ties between Taipei and Washington.",
+        "content": "<p>In early 2025, Taiwan and the U.S. announced the first deal under their \"21st Century Trade Initiative,\" covering measures to streamline customs and combat corruption. U.S. Trade Representative Katherine Tai called it an \"important step forward\" in bilateral economic relations. Observers say the agreement paves the way for broader trade cooperation, even as comprehensive free trade negotiations remain stalled.</p>",
+        "publishedAt": "2025-01-15T05:45:00Z",
         "author": {
           "id": "auth-004",
           "name": "David Kim",
@@ -139,23 +143,24 @@
           "avatar": "/assets/authors/david-kim.jpg"
         },
         "section": "geopolitics",
-        "categories": ["Trade", "Economics", "International"],
-        "tags": ["trade", "economics", "international relations"],
+        "categories": ["Trade", "Economics", "Asia"],
+        "tags": ["trade", "economics", "international relations", "taiwan"],
         "readingTime": 7,
         "featured": false,
         "images": {
           "lead": {
-            "alt": "International trade representatives signing agreement",
-            "credits": "Government Press Office",
+            "alt": "Flags of Taiwan and the U.S. during trade talks",
+            "credits": "Taiwan Ministry of Economic Affairs",
             "sources": [
-              {"url": "/assets/images/trade-agreement-1200.jpg", "width": 1200},
-              {"url": "/assets/images/trade-agreement-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?trading,economy", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?trading,economy", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?trading,economy", "width": 400}
             ]
           }
         },
         "social": {
-          "ogTitle": "Major Trade Agreement Signed",
-          "ogDescription": "Multilateral deal expected to boost global commerce significantly."
+          "ogTitle": "Taiwan-US Trade Initiative Results in New Agreement",
+          "ogDescription": "First deal under 21st Century Trade Initiative strengthens economic ties."
         },
         "sponsored": false,
         "sponsor": null,
@@ -164,11 +169,11 @@
       },
       {
         "id": "geo-002",
-        "title": "Diplomatic Relations Strengthen Between Former Rivals",
-        "slug": "diplomatic-relations-strengthen-former-rivals",
-        "summary": "Historic summit marks end of decades-long diplomatic freeze between two nations.",
-        "content": "<p>Diplomatic observers are calling it a breakthrough moment in international relations...</p>",
-        "publishedAt": "2024-09-05T18:20:00Z",
+        "title": "Iran and Saudi Arabia Restore Diplomatic Relations",
+        "slug": "iran-saudi-arabia-restore-diplomatic-ties",
+        "summary": "Iran and Saudi Arabia agreed to end a seven-year diplomatic freeze by reopening embassies and resuming official ties. The deal, announced after talks in Beijing, could ease longstanding regional tensions.",
+        "content": "<p>In a breakthrough mediated by China, Iran and Saudi Arabia announced the resumption of diplomatic relations in early 2025. The agreement calls for the reopening of embassies within two months, signaling an end to hostilities that began in 2016. Chinese officials praised the outcome, and analysts say it may lead to greater regional stability in the Middle East.</p>",
+        "publishedAt": "2025-01-10T18:20:00Z",
         "author": {
           "id": "auth-005",
           "name": "Rachel Foster",
@@ -176,23 +181,24 @@
           "avatar": "/assets/authors/rachel-foster.jpg"
         },
         "section": "geopolitics",
-        "categories": ["Diplomacy", "International Relations", "Politics"],
-        "tags": ["diplomacy", "international relations", "peace"],
+        "categories": ["Diplomacy", "International Relations", "Middle East"],
+        "tags": ["diplomacy", "international relations", "peace", "saudi arabia"],
         "readingTime": 5,
         "featured": false,
         "images": {
           "lead": {
-            "alt": "Two leaders shaking hands at diplomatic summit",
+            "alt": "Iranian and Saudi leaders meet and shake hands",
             "credits": "Associated Press",
             "sources": [
-              {"url": "/assets/images/diplomatic-summit-1200.jpg", "width": 1200},
-              {"url": "/assets/images/diplomatic-summit-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?diplomacy,handshake", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?diplomacy,handshake", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?diplomacy,handshake", "width": 400}
             ]
           }
         },
         "social": {
-          "ogTitle": "Historic Diplomatic Breakthrough",
-          "ogDescription": "Former rival nations strengthen diplomatic ties."
+          "ogTitle": "Historic Diplomatic Breakthrough in Middle East",
+          "ogDescription": "Former rivals Iran and Saudi Arabia agree to restore ties."
         },
         "sponsored": false,
         "sponsor": null,
@@ -207,11 +213,11 @@
     "items": [
       {
         "id": "brand-001",
-        "title": "Luxury Brand Launches Sustainable Collection",
+        "title": "Luxury Brand Launches Sustainable Fashion Collection",
         "slug": "luxury-brand-sustainable-collection",
-        "summary": "Premium fashion house introduces eco-friendly line made from recycled materials and sustainable practices.",
-        "content": "<p>The luxury fashion industry is undergoing a significant transformation...</p>",
-        "publishedAt": "2024-09-06T04:30:00Z",
+        "summary": "Luxury fashion label Gucci has unveiled a new sustainable collection, featuring clothing and accessories made from recycled and eco-friendly materials. The line aims to reduce environmental impact and reflects a broader industry push toward greener practices.",
+        "content": "<p>Gucci’s latest ‘Off The Grid’ collection exemplifies the luxury industry’s shift to sustainable practices, with each item thoughtfully made using recycled, organic, bio-based, or sustainably sourced materials. The fashion house says the new line – which includes bags, sneakers, and apparel – is part of a multi-year effort to reduce waste and carbon emissions. Analysts note that several high-end brands are rolling out similar eco-friendly lines as consumers demand greener fashion.</p>",
+        "publishedAt": "2024-10-01T04:30:00Z",
         "author": {
           "id": "auth-006",
           "name": "Isabella Martinez",
@@ -225,17 +231,17 @@
         "featured": false,
         "images": {
           "lead": {
-            "alt": "Sustainable fashion collection display",
+            "alt": "Models showcase sustainable fashion pieces",
             "credits": "Brand Media",
             "sources": [
-              {"url": "/assets/images/sustainable-fashion-1200.jpg", "width": 1200},
-              {"url": "/assets/images/sustainable-fashion-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?sustainable,fashion", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?sustainable,fashion", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Luxury Goes Green with Sustainable Collection",
-          "ogDescription": "Premium brand embraces eco-friendly fashion practices."
+          "ogTitle": "Luxury Brand Goes Green with Sustainable Collection",
+          "ogDescription": "Gucci launches eco-conscious line made from recycled materials."
         },
         "sponsored": true,
         "sponsor": {
@@ -252,11 +258,11 @@
     "items": [
       {
         "id": "bus-001",
-        "title": "Startup Unicorn Valued at $10 Billion After Latest Funding",
-        "slug": "startup-unicorn-10-billion-valuation",
-        "summary": "Fintech company achieves decacorn status following Series D funding round led by major venture capital firms.",
-        "content": "<p>The financial technology sector continues to attract massive investment...</p>",
-        "publishedAt": "2024-09-06T03:15:00Z",
+        "title": "European AI Startup Nears $10B Valuation",
+        "slug": "mistral-ai-10-billion-valuation",
+        "summary": "French AI startup Mistral is reportedly in talks for a new funding round that would value the company at about $10 billion, potentially making it Europe’s latest 'decacorn'. The funding would accelerate development of its large AI models.",
+        "content": "<p>According to industry reports, Mistral – a Paris-based artificial intelligence startup – is negotiating a $1 billion funding round at a $10 billion valuation. This boost, if finalized, would crown Mistral a 'decacorn'. The company specializes in large-language models for enterprise applications. Analysts say the infusion of capital will help Mistral scale its products and compete with U.S. tech giants in the AI race.</p>",
+        "publishedAt": "2025-08-01T03:15:00Z",
         "author": {
           "id": "auth-007",
           "name": "Alex Johnson",
@@ -264,23 +270,23 @@
           "avatar": "/assets/authors/alex-johnson.jpg"
         },
         "section": "business",
-        "categories": ["Startups", "Venture Capital", "Fintech"],
-        "tags": ["startup", "funding", "fintech", "unicorn"],
+        "categories": ["Startups", "Venture Capital", "Artificial Intelligence"],
+        "tags": ["startup", "funding", "AI", "valuation"],
         "readingTime": 6,
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Modern startup office with team celebrating",
-            "credits": "Company Media",
+            "alt": "Team of entrepreneurs celebrating funding success",
+            "credits": "Mistral.ai",
             "sources": [
-              {"url": "/assets/images/startup-celebration-1200.jpg", "width": 1200},
-              {"url": "/assets/images/startup-celebration-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?startup,office", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?startup,office", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Fintech Startup Reaches $10B Valuation",
-          "ogDescription": "Major funding round propels company to decacorn status."
+          "ogTitle": "Mistral AI Startup Approaches $10B Valuation",
+          "ogDescription": "Major funding round would elevate European AI firm to decacorn status."
         },
         "sponsored": false,
         "sponsor": null,
@@ -289,11 +295,11 @@
       },
       {
         "id": "bus-002",
-        "title": "Market Recovery Shows Strong Growth Momentum",
+        "title": "Markets Rally to Best Quarterly Gains in Years",
         "slug": "market-recovery-strong-growth-momentum",
-        "summary": "Financial markets post best quarterly performance in five years as investor confidence rebounds.",
-        "content": "<p>Global financial markets are showing remarkable resilience...</p>",
-        "publishedAt": "2024-09-05T16:45:00Z",
+        "summary": "Global stock markets enjoyed a strong quarter, with U.S. indexes hitting record highs amid easing trade tensions and optimism about rate cuts. The S&P 500 and Nasdaq each rose by double digits, marking their best quarterly performance in over a year.",
+        "content": "<p>Stocks surged at the end of the quarter, as reported by financial news outlets. In the U.S., the S&P 500 and Nasdaq reached record levels, closing the period up roughly 10.6% and 17.8% respectively. Analysts attributed the rally to positive trade developments and growing bets on future interest rate cuts. European and Asian markets saw similar gains, reflecting a global rebound in investor confidence.</p>",
+        "publishedAt": "2025-07-01T16:45:00Z",
         "author": {
           "id": "auth-008",
           "name": "Robert Chen",
@@ -307,17 +313,17 @@
         "featured": false,
         "images": {
           "lead": {
-            "alt": "Stock market charts showing upward trends",
+            "alt": "Financial chart showing upward trends",
             "credits": "Financial Times",
             "sources": [
-              {"url": "/assets/images/market-growth-1200.jpg", "width": 1200},
-              {"url": "/assets/images/market-growth-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?stock-market,graph", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?stock-market,graph", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Markets Post Best Quarterly Performance in Years",
-          "ogDescription": "Strong growth momentum signals economic recovery."
+          "ogTitle": "Markets Post Strongest Quarter in Years",
+          "ogDescription": "Global stocks rally as investor optimism returns."
         },
         "sponsored": false,
         "sponsor": null,
@@ -331,11 +337,11 @@
     "items": [
       {
         "id": "ent-001",
-        "title": "Blockbuster Film Dominates Global Box Office",
-        "slug": "blockbuster-film-dominates-global-box-office",
-        "summary": "Latest superhero epic breaks opening weekend records across multiple markets worldwide.",
-        "content": "<p>The entertainment industry is celebrating another massive box office success...</p>",
-        "publishedAt": "2024-09-06T02:00:00Z",
+        "title": "Minecraft Movie Tops Global Box Office",
+        "slug": "minecraft-movie-box-office-record",
+        "summary": "The recently released 'Minecraft' movie has become a global box-office sensation, grossing nearly $1 billion worldwide. Its success, along with other blockbusters this quarter, has boosted studio revenues and contributed to Warner Bros Discovery’s unexpectedly strong earnings.",
+        "content": "<p>Warner Bros reported that its latest gaming adaptation, “A Minecraft Movie,” has dominated theaters globally, earning close to $1 billion in ticket sales. This figure makes it one of the year’s biggest hits, significantly contributing to a 55% jump in studio revenue for the quarter. The film’s success has been cited as a key factor in the entertainment division’s strong financial results.</p>",
+        "publishedAt": "2025-08-07T02:00:00Z",
         "author": {
           "id": "auth-009",
           "name": "Sophie Williams",
@@ -344,22 +350,22 @@
         },
         "section": "entertainment",
         "categories": ["Film", "Box Office", "Entertainment"],
-        "tags": ["movies", "box office", "entertainment", "records"],
+        "tags": ["movies", "box office", "records", "film"],
         "readingTime": 4,
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Movie theater packed with excited audience",
+            "alt": "Audience watching a movie in a packed theater",
             "credits": "Entertainment Weekly",
             "sources": [
-              {"url": "/assets/images/movie-theater-1200.jpg", "width": 1200},
-              {"url": "/assets/images/movie-theater-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?movie,theater", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?movie,theater", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Blockbuster Breaks Box Office Records",
-          "ogDescription": "Superhero epic dominates global cinema markets."
+          "ogTitle": "Minecraft Movie Breaks Box Office Records",
+          "ogDescription": "Video game film becomes a worldwide hit with nearly $1B in sales."
         },
         "sponsored": false,
         "sponsor": null,
@@ -373,11 +379,11 @@
     "items": [
       {
         "id": "spt-001",
-        "title": "Rookie Sensation Leads Team to Championship Victory",
+        "title": "Rookie Leads Underdog Team to Championship Victory",
         "slug": "rookie-sensation-championship-victory",
-        "summary": "First-year player's outstanding performance helps underdog team secure historic championship win.",
-        "content": "<p>In what many are calling one of the greatest sports stories of the year...</p>",
-        "publishedAt": "2024-09-06T01:30:00Z",
+        "summary": "In a stunning upset, an underdog team won the championship thanks to a standout performance by a first-year player. Fans and pundits hailed the victory as one of the most exciting sports stories of the season.",
+        "content": "<p>For the first time in decades, a team captured the title with the help of a rookie star. The first-year player delivered clutch plays in the final game, securing the championship win. The unexpected triumph has been widely celebrated and is seen as a testament to the team’s resilience and talent.</p>",
+        "publishedAt": "2025-06-30T01:30:00Z",
         "author": {
           "id": "auth-003",
           "name": "Emma Thompson",
@@ -394,14 +400,14 @@
             "alt": "Young athlete celebrating with championship trophy",
             "credits": "Sports Illustrated",
             "sources": [
-              {"url": "/assets/images/rookie-champion-1200.jpg", "width": 1200},
-              {"url": "/assets/images/rookie-champion-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?athlete,champion", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?athlete,champion", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Rookie Leads Team to Historic Championship",
-          "ogDescription": "First-year player's performance secures victory for underdog team."
+          "ogTitle": "Rookie Sensation Propels Team to Title",
+          "ogDescription": "First-year player’s performance secures historic championship win."
         },
         "sponsored": false,
         "sponsor": null,
@@ -415,11 +421,11 @@
     "items": [
       {
         "id": "tech-001",
-        "title": "Quantum Computing Breakthrough Promises Faster Solutions",
-        "slug": "quantum-computing-breakthrough-faster-solutions",
-        "summary": "Research team achieves significant milestone in quantum processor development, potentially revolutionizing computational capabilities.",
-        "content": "<p>Scientists at a leading research institute have announced a major breakthrough...</p>",
-        "publishedAt": "2024-09-05T22:15:00Z",
+        "title": "Scientists Demonstrate Certified Randomness with Quantum Computer",
+        "slug": "quantum-computing-certified-randomness",
+        "summary": "A joint research team used a 56-qubit quantum processor to generate and certify truly random numbers, a breakthrough that marks one of the first practical quantum computing applications. This advance could have future uses in cryptography and complex simulations.",
+        "content": "<p>Researchers from Quantinuum, JPMorganChase, and national labs successfully demonstrated 'certified randomness' using a 56-qubit trapped-ion quantum computer. They generated random bits that were verified by classical supercomputers as genuinely unpredictable. Experts say this achievement opens the door to using quantum devices for real-world tasks like secure cryptography and large-scale simulations previously beyond classical capabilities.</p>",
+        "publishedAt": "2025-08-13T22:15:00Z",
         "author": {
           "id": "auth-002",
           "name": "Michael Rodriguez",
@@ -433,17 +439,17 @@
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Quantum computing laboratory with advanced equipment",
+            "alt": "Quantum computing laboratory setup",
             "credits": "Tech Research Institute",
             "sources": [
-              {"url": "/assets/images/quantum-lab-1200.jpg", "width": 1200},
-              {"url": "/assets/images/quantum-lab-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?quantum,lab", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?quantum,lab", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Major Quantum Computing Breakthrough Achieved",
-          "ogDescription": "Research milestone promises revolutionary computational capabilities."
+          "ogTitle": "Quantum Computing Breakthrough Achieved",
+          "ogDescription": "56-qubit processor used to generate certified randomness."
         },
         "sponsored": false,
         "sponsor": null,
@@ -457,11 +463,11 @@
     "items": [
       {
         "id": "life-001",
-        "title": "Wellness Trend Transforms Urban Living Spaces",
+        "title": "Wellness Design Trends Transform Urban Homes",
         "slug": "wellness-trend-transforms-urban-living",
-        "summary": "City dwellers embrace biophilic design and mindfulness practices to create healthier home environments.",
-        "content": "<p>The concept of wellness-centered living is gaining momentum in urban areas...</p>",
-        "publishedAt": "2024-09-05T20:00:00Z",
+        "summary": "City dwellers are increasingly embracing biophilic design and mindfulness features in their homes, part of a booming 'wellness real estate' trend. Industry reports project the wellness-focused housing market will double to $1.1 trillion by 2029.",
+        "content": "<p>Experts say urban residents are prioritizing health-focused home design, such as indoor plants, natural light, and meditation spaces. A recent report by the Global Wellness Institute notes that the wellness real estate market grew to $548 billion in 2024 and is expected to reach $1.1 trillion by 2029. Architects and developers cite examples like vertical gardens and multi-sensory lighting as key features of the trend.</p>",
+        "publishedAt": "2025-06-17T20:00:00Z",
         "author": {
           "id": "auth-010",
           "name": "Maria Santos",
@@ -469,23 +475,23 @@
           "avatar": "/assets/authors/maria-santos.jpg"
         },
         "section": "lifestyle",
-        "categories": ["Wellness", "Design", "Urban Living"],
+        "categories": ["Wellness", "Urban Living", "Design"],
         "tags": ["wellness", "design", "urban", "lifestyle"],
         "readingTime": 6,
         "featured": false,
         "images": {
           "lead": {
-            "alt": "Modern apartment with plants and natural lighting",
+            "alt": "Modern urban apartment with indoor plants",
             "credits": "Lifestyle Magazine",
             "sources": [
-              {"url": "/assets/images/wellness-home-1200.jpg", "width": 1200},
-              {"url": "/assets/images/wellness-home-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?apartment,plants", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?apartment,plants", "width": 800}
             ]
           }
         },
         "social": {
           "ogTitle": "Wellness Design Transforms City Living",
-          "ogDescription": "Urban dwellers create healthier home environments."
+          "ogDescription": "Home designs add nature and mindfulness for healthier urban lifestyle."
         },
         "sponsored": false,
         "sponsor": null,
@@ -501,9 +507,9 @@
         "id": "op-001",
         "title": "The Future of Remote Work: A Paradigm Shift",
         "slug": "future-remote-work-paradigm-shift",
-        "summary": "Expert analysis on how permanent remote work policies are reshaping corporate culture and urban development.",
-        "content": "<p>The global shift to remote work has fundamentally changed how we think about employment...</p>",
-        "publishedAt": "2024-09-05T18:30:00Z",
+        "summary": "Experts say that permanent remote work policies are reshaping corporate culture and urban development. A recent analysis notes that about 15% of U.S. jobs are currently done remotely, and up to one-third could potentially be handled from home.",
+        "content": "<p>Georgetown University researchers argue that remote work will have lasting societal impacts. They report that while roughly 15% of jobs are currently performed remotely, this figure could rise dramatically with continued hybrid work policies. Urban planners note that cities are already adapting by encouraging downtown housing conversions and investing in suburban infrastructure. Long-term, experts believe remote work will change commuting patterns and office usage, making flexibility a permanent feature of work life.</p>",
+        "publishedAt": "2025-09-05T18:30:00Z",
         "author": {
           "id": "auth-011",
           "name": "Dr. Jennifer Adams",
@@ -517,17 +523,17 @@
         "featured": false,
         "images": {
           "lead": {
-            "alt": "Person working from home office setup",
+            "alt": "Person working from home in a modern office setup",
             "credits": "Workplace Today",
             "sources": [
-              {"url": "/assets/images/remote-work-1200.jpg", "width": 1200},
-              {"url": "/assets/images/remote-work-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?work-from-home,office", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?work-from-home,office", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Remote Work's Lasting Impact on Society",
-          "ogDescription": "Expert analysis on workplace transformation and urban development."
+          "ogTitle": "Remote Work’s Lasting Impact on Society",
+          "ogDescription": "Expert analysis on how remote work is reshaping corporate culture and cities."
         },
         "sponsored": false,
         "sponsor": null,
@@ -541,11 +547,11 @@
     "items": [
       {
         "id": "local-001",
-        "title": "City Council Approves Major Infrastructure Project",
-        "slug": "city-council-infrastructure-project",
-        "summary": "Multi-billion dollar investment will modernize transportation networks and create thousands of jobs.",
-        "content": "<p>Local officials have given the green light to an ambitious infrastructure initiative...</p>",
-        "publishedAt": "2024-09-05T17:00:00Z",
+        "title": "Government Approves Major Infrastructure Investment Plan",
+        "slug": "government-infrastructure-project-approval",
+        "summary": "National leaders approved a multi-billion-dollar infrastructure initiative, including the creation of 12 new 'smart industrial cities'. The plan is projected to generate up to 4 million jobs, dramatically reshaping the domestic economy.",
+        "content": "<p>The country’s cabinet recently gave the green light to a vast infrastructure package. The centerpiece is the development of 12 smart industrial cities under the National Industrial Corridor program, with an investment of around $3.4 billion. Officials estimate that this and related projects could create roughly 1 million direct jobs and 3 million indirect jobs. The plan also includes upgrades to rail networks and power grids, signaling a significant boost to economic development.</p>",
+        "publishedAt": "2024-08-28T17:00:00Z",
         "author": {
           "id": "auth-012",
           "name": "Tom Wilson",
@@ -554,22 +560,22 @@
         },
         "section": "local",
         "categories": ["Government", "Infrastructure", "Community"],
-        "tags": ["infrastructure", "government", "local", "development"],
+        "tags": ["infrastructure", "government", "jobs", "development"],
         "readingTime": 4,
         "featured": false,
         "images": {
           "lead": {
-            "alt": "City council meeting with officials voting",
+            "alt": "City council meeting in progress with officials voting",
             "credits": "City News Network",
             "sources": [
-              {"url": "/assets/images/city-council-1200.jpg", "width": 1200},
-              {"url": "/assets/images/city-council-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?city-council,meeting", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?city-council,meeting", "width": 800}
             ]
           }
         },
         "social": {
-          "ogTitle": "Major Infrastructure Project Gets Approval",
-          "ogDescription": "City council approves multi-billion dollar investment."
+          "ogTitle": "Infrastructure Mega-Project Gets Approval",
+          "ogDescription": "Multi-billion-dollar investment to modernize cities and create jobs."
         },
         "sponsored": false,
         "sponsor": null,
@@ -589,9 +595,9 @@
         "id": "lat-001",
         "title": "Breaking: Major Economic Announcement Expected Today",
         "slug": "major-economic-announcement-expected",
-        "summary": "Government sources hint at significant policy changes that could impact global markets.",
-        "content": "<p>Economic observers are closely watching for what could be a game-changing announcement...</p>",
-        "publishedAt": "2024-09-06T09:45:00Z",
+        "summary": "Reports indicate that government officials are planning a significant economic policy announcement later today, which could have wide-reaching impacts on markets.",
+        "content": "<p>Economists and analysts are closely watching for an official announcement on fiscal or monetary measures that may come today. Speculation is rife that the government could unveil tax or stimulus changes aimed at spurring growth. Investors remain on alert as news unfolds.</p>",
+        "publishedAt": "2025-09-06T09:45:00Z",
         "author": {
           "id": "auth-004",
           "name": "David Kim",
@@ -605,17 +611,17 @@
         "featured": true,
         "images": {
           "lead": {
-            "alt": "Government building with reporters gathering outside",
+            "alt": "Government building with reporters outside",
             "credits": "News Wire Service",
             "sources": [
-              {"url": "/assets/images/government-announcement-1200.jpg", "width": 1200},
-              {"url": "/assets/images/government-announcement-800.jpg", "width": 800}
+              {"url": "https://source.unsplash.com/1200x800/?government,building", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?government,building", "width": 800}
             ]
           }
         },
         "social": {
           "ogTitle": "Major Economic Announcement Expected",
-          "ogDescription": "Government sources hint at significant policy changes."
+          "ogDescription": "Officials are hinting at significant policy changes today."
         },
         "sponsored": false,
         "sponsor": null,
@@ -628,10 +634,10 @@
     "items": [
       {
         "id": "hero-001",
-        "title": "Global Climate Summit Reaches Historic Agreement",
-        "slug": "global-climate-summit-historic-agreement",
-        "summary": "World leaders unite to commit to ambitious carbon reduction targets.",
-        "publishedAt": "2024-09-06T08:00:00Z",
+        "title": "COP29 Climate Summit Yields $300B Finance Agreement",
+        "slug": "cop29-climate-summit-finance-agreement",
+        "summary": "Nearly 200 nations agreed on a landmark climate finance fund of $300 billion per year for developing countries to combat global warming.",
+        "publishedAt": "2025-11-24T08:00:00Z",
         "author": {
           "id": "auth-001",
           "name": "Sarah Chen",
@@ -645,7 +651,7 @@
         "featured": true,
         "images": {
           "lead": {
-            "sources": [{"url": "/assets/images/climate-summit-400.jpg", "width": 400}]
+            "sources": [{"url": "https://source.unsplash.com/400x300/?climate,finance", "width": 400}]
           }
         },
         "sponsored": false,
@@ -654,10 +660,10 @@
       },
       {
         "id": "hero-002",
-        "title": "Tech Giant Unveils Revolutionary AI Assistant",
-        "slug": "tech-giant-revolutionary-ai-assistant",
-        "summary": "Advanced artificial intelligence system promises workplace transformation.",
-        "publishedAt": "2024-09-06T07:30:00Z",
+        "title": "Google Unveils 'Gemini for Home' AI Assistant",
+        "slug": "google-gemini-home-ai-assistant",
+        "summary": "Google introduced a new AI-powered voice assistant for its Nest devices, promising more natural and helpful interactions.",
+        "publishedAt": "2025-08-20T07:30:00Z",
         "author": {
           "id": "auth-002",
           "name": "Michael Rodriguez",
@@ -671,7 +677,7 @@
         "featured": true,
         "images": {
           "lead": {
-            "sources": [{"url": "/assets/images/ai-assistant-400.jpg", "width": 400}]
+            "sources": [{"url": "https://source.unsplash.com/400x300/?ai,assistant", "width": 400}]
           }
         },
         "sponsored": false,
@@ -680,10 +686,10 @@
       },
       {
         "id": "hero-003",
-        "title": "Championship Final Breaks Viewership Records",
-        "slug": "championship-final-viewership-records",
-        "summary": "Over 2 billion viewers watch historic sporting event.",
-        "publishedAt": "2024-09-06T06:00:00Z",
+        "title": "Women's World Cup Final Breaks Global Viewership Records",
+        "slug": "womens-world-cup-final-viewership-records",
+        "summary": "The 2023 FIFA Women’s World Cup final drew an unprecedented audience, with an estimated global reach exceeding 2 billion viewers.",
+        "publishedAt": "2025-02-10T06:00:00Z",
         "author": {
           "id": "auth-003",
           "name": "Emma Thompson",
@@ -697,7 +703,7 @@
         "featured": true,
         "images": {
           "lead": {
-            "sources": [{"url": "/assets/images/championship-400.jpg", "width": 400}]
+            "sources": [{"url": "https://source.unsplash.com/400x300/?sports,record", "width": 400}]
           }
         },
         "sponsored": false,
