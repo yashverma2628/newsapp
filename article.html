@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article | NewsHub</title>
+    <meta name="description" content="Read the latest news article from NewsHub">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/components.css">
+    <link rel="stylesheet" href="/css/article.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/icons/favicon.ico">
+    
+    <!-- Canonical URL will be set by JavaScript -->
+    <link rel="canonical" href="">
+    
+    <!-- Open Graph tags will be populated by JavaScript -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="NewsHub">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@newshub">
+    
+    <!-- JSON-LD will be added by JavaScript -->
+</head>
+<body>
+    <!-- Skip to main content link -->
+    <a href="#article-content" class="skip-link">Skip to article content</a>
+    
+    <!-- Header -->
+    <header class="site-header">
+        <nav class="navbar" role="navigation" aria-label="Main navigation">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <a href="/" class="logo" aria-label="NewsHub Homepage">
+                        <img src="/assets/images/logo.svg" alt="NewsHub" width="120" height="40">
+                    </a>
+                </div>
+                
+                <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle navigation menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                
+                <div class="nav-menu" id="nav-menu">
+                    <ul class="nav-links">
+                        <li><a href="/" class="nav-link">Home</a></li>
+                        <li><a href="/section.html?section=geopolitics" class="nav-link">Geopolitics</a></li>
+                        <li><a href="/section.html?section=business" class="nav-link">Business</a></li>
+                        <li><a href="/section.html?section=technology" class="nav-link">Technology</a></li>
+                        <li><a href="/section.html?section=sports" class="nav-link">Sports</a></li>
+                        <li><a href="/section.html?section=entertainment" class="nav-link">Entertainment</a></li>
+                        <li><a href="/section.html?section=lifestyle" class="nav-link">Lifestyle</a></li>
+                        <li><a href="/section.html?section=opinion" class="nav-link">Opinion</a></li>
+                        <li><a href="/section.html?section=local" class="nav-link">Local</a></li>
+                    </ul>
+                    
+                    <div class="nav-actions">
+                        <div class="search-container">
+                            <input type="search" id="search-input" placeholder="Search news..." aria-label="Search news">
+                            <button class="search-btn" aria-label="Search">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <path d="m21 21-4.35-4.35"></path>
+                                </svg>
+                            </button>
+                        </div>
+                        <a href="#newsletter" class="subscribe-btn">Subscribe</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Reading Progress Bar -->
+    <div class="reading-progress">
+        <div class="progress-bar"></div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="article-container">
+        <article class="article-main" id="article-content">
+            <!-- Article Header -->
+            <header class="article-header">
+                <!-- Content populated by JavaScript -->
+            </header>
+
+            <!-- Article Byline -->
+            <div class="article-byline">
+                <!-- Content populated by JavaScript -->
+            </div>
+
+            <!-- Sponsored Disclaimer (if applicable) -->
+            <div class="sponsored-disclaimer" id="sponsored-disclaimer" style="display: none;">
+                This article is sponsored content. Our editorial team maintains independence in all reporting.
+            </div>
+
+            <!-- Lead Image -->
+            <figure class="article-lead-image" id="article-lead-image">
+                <!-- Content populated by JavaScript -->
+            </figure>
+
+            <!-- Article Body -->
+            <div class="article-body" id="article-body">
+                <!-- Content populated by JavaScript -->
+            </div>
+
+            <!-- Article Footer -->
+            <footer class="article-footer" id="article-footer">
+                <!-- Tags, share buttons, and related articles populated by JavaScript -->
+            </footer>
+
+            <!-- Author Card -->
+            <div class="author-card" id="author-card">
+                <!-- Content populated by JavaScript -->
+            </div>
+
+            <!-- Comments Section -->
+            <section class="comments-section" id="comments-section">
+                <div class="comments-header">
+                    <h3 class="comments-count">Comments</h3>
+                </div>
+                <div class="comments-placeholder">
+                    <p>Comments are coming soon!</p>
+                    <p>We're working on implementing a comment system. In the meantime, share your thoughts on social media.</p>
+                </div>
+            </section>
+        </article>
+
+        <!-- Sidebar -->
+        <aside class="article-sidebar">
+            <!-- Table of Contents -->
+            <div class="sidebar-section" id="toc-section">
+                <h3>Table of Contents</h3>
+                <div class="toc" id="toc">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+
+            <!-- Related Articles -->
+            <div class="sidebar-section" id="related-sidebar">
+                <h3>Related Articles</h3>
+                <div class="related-list" id="related-list">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+
+            <!-- Newsletter Signup -->
+            <div class="sidebar-section newsletter-section">
+                <h3>Stay Updated</h3>
+                <p>Get the latest news delivered to your inbox.</p>
+                <form class="newsletter-form" id="newsletter-form">
+                    <input type="email" placeholder="Enter your email" required aria-label="Email address">
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+
+            <!-- Ad Placeholder -->
+            <div class="ad-placeholder">
+                <div class="ad-content">
+                    <span>Advertisement</span>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>About NewsHub</h3>
+                <p>Your trusted source for news, analysis, and insights from around the world.</p>
+                <div class="social-links">
+                    <a href="#" aria-label="Follow us on Twitter"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path></svg></a>
+                    <a href="#" aria-label="Follow us on Facebook"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path></svg></a>
+                    <a href="#" aria-label="Follow us on Instagram"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="m16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h3>Sections</h3>
+                <ul>
+                    <li><a href="/section.html?section=geopolitics">Geopolitics</a></li>
+                    <li><a href="/section.html?section=business">Business</a></li>
+                    <li><a href="/section.html?section=technology">Technology</a></li>
+                    <li><a href="/section.html?section=sports">Sports</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h3>Company</h3>
+                <ul>
+                    <li><a href="/about.html">About Us</a></li>
+                    <li><a href="/contact.html">Contact</a></li>
+                    <li><a href="/privacy.html">Privacy Policy</a></li>
+                    <li><a href="/terms.html">Terms of Service</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h3>Resources</h3>
+                <ul>
+                    <li><a href="/sitemap.xml">Sitemap</a></li>
+                    <li><a href="/rss.xml">RSS Feed</a></li>
+                    <li><a href="/search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="footer-bottom-content">
+                <p>&copy; 2024 NewsHub. All rights reserved.</p>
+                <p>Made with ❤️ for informed readers</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Search Modal -->
+    <div class="search-modal" id="search-modal">
+        <div class="search-modal-content">
+            <div class="search-modal-header">
+                <input type="search" id="modal-search-input" placeholder="Search news..." aria-label="Search news">
+                <button class="search-modal-close" aria-label="Close search">&times;</button>
+            </div>
+            <div class="search-results" id="search-results">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading indicator -->
+    <div class="loading-indicator" id="loading-indicator">
+        <div class="spinner"></div>
+    </div>
+
+    <!-- Error message for article not found -->
+    <div class="article-error" id="article-error" style="display: none;">
+        <div class="error-content">
+            <h1>Article Not Found</h1>
+            <p>The article you're looking for could not be found. It may have been moved or deleted.</p>
+            <div class="error-actions">
+                <a href="/" class="btn btn-primary">Go Home</a>
+                <a href="/search.html" class="btn btn-secondary">Search Articles</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script type="module" src="/js/article-loader.js"></script>
+</body>
+</html>

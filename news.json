@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2024-09-06T10:30:00Z"
+  },
+  "hero": {
+    "title": "Top Stories",
+    "layout": "carousel",
+    "items": [
+      {
+        "id": "hero-001",
+        "title": "Global Climate Summit Reaches Historic Agreement",
+        "slug": "global-climate-summit-historic-agreement",
+        "summary": "World leaders unite to commit to ambitious carbon reduction targets in unprecedented deal that could reshape the future of environmental policy.",
+        "content": "<p>In a landmark moment for global environmental policy, leaders from 195 countries have reached a historic agreement at the Global Climate Summit...</p>",
+        "publishedAt": "2024-09-06T08:00:00Z",
+        "updatedAt": "2024-09-06T09:15:00Z",
+        "author": {
+          "id": "auth-001",
+          "name": "Sarah Chen",
+          "bio": "Environmental correspondent with 15 years of experience covering climate policy.",
+          "avatar": "/assets/authors/sarah-chen.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Environment", "Policy", "International"],
+        "tags": ["climate change", "summit", "environment", "policy"],
+        "readingTime": 8,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "World leaders shaking hands at climate summit",
+            "credits": "Reuters/John Smith",
+            "sources": [
+              {"url": "/assets/images/climate-summit-1200.jpg", "width": 1200},
+              {"url": "/assets/images/climate-summit-800.jpg", "width": 800},
+              {"url": "/assets/images/climate-summit-400.jpg", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Historic Climate Agreement Reached at Global Summit",
+          "ogDescription": "World leaders commit to ambitious carbon reduction targets in unprecedented environmental deal."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-002",
+        "title": "Tech Giant Unveils Revolutionary AI Assistant",
+        "slug": "tech-giant-revolutionary-ai-assistant",
+        "summary": "New artificial intelligence system promises to transform workplace productivity with advanced natural language processing capabilities.",
+        "content": "<p>Technology industry leaders gathered yesterday to witness the unveiling of what could be the most advanced AI assistant to date...</p>",
+        "publishedAt": "2024-09-06T07:30:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter covering AI and emerging technologies.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["Artificial Intelligence", "Technology", "Business"],
+        "tags": ["AI", "technology", "innovation", "productivity"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Futuristic AI interface on multiple screens",
+            "credits": "TechCorp Media",
+            "sources": [
+              {"url": "/assets/images/ai-assistant-1200.jpg", "width": 1200},
+              {"url": "/assets/images/ai-assistant-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Revolutionary AI Assistant Changes Everything",
+          "ogDescription": "Advanced natural language processing promises workplace transformation."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-003",
+        "title": "Championship Final Breaks Viewership Records",
+        "slug": "championship-final-viewership-records",
+        "summary": "Over 2 billion viewers worldwide tuned in to watch the most-watched sporting event in history.",
+        "content": "<p>Last night's championship final shattered all previous viewership records, with streaming platforms reporting unprecedented demand...</p>",
+        "publishedAt": "2024-09-06T06:00:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist covering major international competitions.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Sports", "Entertainment", "Records"],
+        "tags": ["championship", "viewership", "sports", "records"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Packed stadium during championship final",
+            "credits": "Sports Media Network",
+            "sources": [
+              {"url": "/assets/images/championship-1200.jpg", "width": 1200},
+              {"url": "/assets/images/championship-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Championship Final Breaks All Viewership Records",
+          "ogDescription": "Over 2 billion viewers watch historic sporting event."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "geopolitics": {
+    "title": "Geopolitics",
+    "items": [
+      {
+        "id": "geo-001",
+        "title": "Trade Agreement Reshapes Economic Landscape",
+        "slug": "trade-agreement-reshapes-economic-landscape",
+        "summary": "New multilateral trade deal between major economies expected to boost global commerce by 15% over next decade.",
+        "content": "<p>Economic analysts are calling it the most significant trade agreement since NAFTA...</p>",
+        "publishedAt": "2024-09-06T05:45:00Z",
+        "author": {
+          "id": "auth-004",
+          "name": "David Kim",
+          "bio": "International economics correspondent.",
+          "avatar": "/assets/authors/david-kim.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Trade", "Economics", "International"],
+        "tags": ["trade", "economics", "international relations"],
+        "readingTime": 7,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "International trade representatives signing agreement",
+            "credits": "Government Press Office",
+            "sources": [
+              {"url": "/assets/images/trade-agreement-1200.jpg", "width": 1200},
+              {"url": "/assets/images/trade-agreement-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Major Trade Agreement Signed",
+          "ogDescription": "Multilateral deal expected to boost global commerce significantly."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "geo-002",
+        "title": "Diplomatic Relations Strengthen Between Former Rivals",
+        "slug": "diplomatic-relations-strengthen-former-rivals",
+        "summary": "Historic summit marks end of decades-long diplomatic freeze between two nations.",
+        "content": "<p>Diplomatic observers are calling it a breakthrough moment in international relations...</p>",
+        "publishedAt": "2024-09-05T18:20:00Z",
+        "author": {
+          "id": "auth-005",
+          "name": "Rachel Foster",
+          "bio": "Diplomatic affairs specialist with 20 years of experience.",
+          "avatar": "/assets/authors/rachel-foster.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Diplomacy", "International Relations", "Politics"],
+        "tags": ["diplomacy", "international relations", "peace"],
+        "readingTime": 5,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Two leaders shaking hands at diplomatic summit",
+            "credits": "Associated Press",
+            "sources": [
+              {"url": "/assets/images/diplomatic-summit-1200.jpg", "width": 1200},
+              {"url": "/assets/images/diplomatic-summit-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Historic Diplomatic Breakthrough",
+          "ogDescription": "Former rival nations strengthen diplomatic ties."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "brands": {
+    "title": "Brands",
+    "sponsored": true,
+    "items": [
+      {
+        "id": "brand-001",
+        "title": "Luxury Brand Launches Sustainable Collection",
+        "slug": "luxury-brand-sustainable-collection",
+        "summary": "Premium fashion house introduces eco-friendly line made from recycled materials and sustainable practices.",
+        "content": "<p>The luxury fashion industry is undergoing a significant transformation...</p>",
+        "publishedAt": "2024-09-06T04:30:00Z",
+        "author": {
+          "id": "auth-006",
+          "name": "Isabella Martinez",
+          "bio": "Fashion and lifestyle journalist.",
+          "avatar": "/assets/authors/isabella-martinez.jpg"
+        },
+        "section": "brands",
+        "categories": ["Fashion", "Sustainability", "Luxury"],
+        "tags": ["fashion", "sustainability", "luxury", "eco-friendly"],
+        "readingTime": 4,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Sustainable fashion collection display",
+            "credits": "Brand Media",
+            "sources": [
+              {"url": "/assets/images/sustainable-fashion-1200.jpg", "width": 1200},
+              {"url": "/assets/images/sustainable-fashion-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Luxury Goes Green with Sustainable Collection",
+          "ogDescription": "Premium brand embraces eco-friendly fashion practices."
+        },
+        "sponsored": true,
+        "sponsor": {
+          "name": "EcoLux Fashion",
+          "logo": "/assets/sponsors/ecolux-logo.png"
+        },
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "business": {
+    "title": "Business",
+    "items": [
+      {
+        "id": "bus-001",
+        "title": "Startup Unicorn Valued at $10 Billion After Latest Funding",
+        "slug": "startup-unicorn-10-billion-valuation",
+        "summary": "Fintech company achieves decacorn status following Series D funding round led by major venture capital firms.",
+        "content": "<p>The financial technology sector continues to attract massive investment...</p>",
+        "publishedAt": "2024-09-06T03:15:00Z",
+        "author": {
+          "id": "auth-007",
+          "name": "Alex Johnson",
+          "bio": "Business reporter specializing in startups and venture capital.",
+          "avatar": "/assets/authors/alex-johnson.jpg"
+        },
+        "section": "business",
+        "categories": ["Startups", "Venture Capital", "Fintech"],
+        "tags": ["startup", "funding", "fintech", "unicorn"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Modern startup office with team celebrating",
+            "credits": "Company Media",
+            "sources": [
+              {"url": "/assets/images/startup-celebration-1200.jpg", "width": 1200},
+              {"url": "/assets/images/startup-celebration-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Fintech Startup Reaches $10B Valuation",
+          "ogDescription": "Major funding round propels company to decacorn status."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "bus-002",
+        "title": "Market Recovery Shows Strong Growth Momentum",
+        "slug": "market-recovery-strong-growth-momentum",
+        "summary": "Financial markets post best quarterly performance in five years as investor confidence rebounds.",
+        "content": "<p>Global financial markets are showing remarkable resilience...</p>",
+        "publishedAt": "2024-09-05T16:45:00Z",
+        "author": {
+          "id": "auth-008",
+          "name": "Robert Chen",
+          "bio": "Senior financial markets analyst.",
+          "avatar": "/assets/authors/robert-chen.jpg"
+        },
+        "section": "business",
+        "categories": ["Markets", "Finance", "Economy"],
+        "tags": ["markets", "recovery", "growth", "economy"],
+        "readingTime": 5,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Stock market charts showing upward trends",
+            "credits": "Financial Times",
+            "sources": [
+              {"url": "/assets/images/market-growth-1200.jpg", "width": 1200},
+              {"url": "/assets/images/market-growth-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Markets Post Best Quarterly Performance in Years",
+          "ogDescription": "Strong growth momentum signals economic recovery."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "entertainment": {
+    "title": "Entertainment",
+    "items": [
+      {
+        "id": "ent-001",
+        "title": "Blockbuster Film Dominates Global Box Office",
+        "slug": "blockbuster-film-dominates-global-box-office",
+        "summary": "Latest superhero epic breaks opening weekend records across multiple markets worldwide.",
+        "content": "<p>The entertainment industry is celebrating another massive box office success...</p>",
+        "publishedAt": "2024-09-06T02:00:00Z",
+        "author": {
+          "id": "auth-009",
+          "name": "Sophie Williams",
+          "bio": "Entertainment industry reporter covering film and television.",
+          "avatar": "/assets/authors/sophie-williams.jpg"
+        },
+        "section": "entertainment",
+        "categories": ["Film", "Box Office", "Entertainment"],
+        "tags": ["movies", "box office", "entertainment", "records"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Movie theater packed with excited audience",
+            "credits": "Entertainment Weekly",
+            "sources": [
+              {"url": "/assets/images/movie-theater-1200.jpg", "width": 1200},
+              {"url": "/assets/images/movie-theater-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Blockbuster Breaks Box Office Records",
+          "ogDescription": "Superhero epic dominates global cinema markets."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "sports": {
+    "title": "Sports",
+    "items": [
+      {
+        "id": "spt-001",
+        "title": "Rookie Sensation Leads Team to Championship Victory",
+        "slug": "rookie-sensation-championship-victory",
+        "summary": "First-year player's outstanding performance helps underdog team secure historic championship win.",
+        "content": "<p>In what many are calling one of the greatest sports stories of the year...</p>",
+        "publishedAt": "2024-09-06T01:30:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist covering major international competitions.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Championship", "Sports", "Athletes"],
+        "tags": ["championship", "rookie", "victory", "underdog"],
+        "readingTime": 5,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Young athlete celebrating with championship trophy",
+            "credits": "Sports Illustrated",
+            "sources": [
+              {"url": "/assets/images/rookie-champion-1200.jpg", "width": 1200},
+              {"url": "/assets/images/rookie-champion-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Rookie Leads Team to Historic Championship",
+          "ogDescription": "First-year player's performance secures victory for underdog team."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "technology": {
+    "title": "Technology",
+    "items": [
+      {
+        "id": "tech-001",
+        "title": "Quantum Computing Breakthrough Promises Faster Solutions",
+        "slug": "quantum-computing-breakthrough-faster-solutions",
+        "summary": "Research team achieves significant milestone in quantum processor development, potentially revolutionizing computational capabilities.",
+        "content": "<p>Scientists at a leading research institute have announced a major breakthrough...</p>",
+        "publishedAt": "2024-09-05T22:15:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter covering AI and emerging technologies.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["Quantum Computing", "Research", "Innovation"],
+        "tags": ["quantum", "computing", "research", "breakthrough"],
+        "readingTime": 7,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Quantum computing laboratory with advanced equipment",
+            "credits": "Tech Research Institute",
+            "sources": [
+              {"url": "/assets/images/quantum-lab-1200.jpg", "width": 1200},
+              {"url": "/assets/images/quantum-lab-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Major Quantum Computing Breakthrough Achieved",
+          "ogDescription": "Research milestone promises revolutionary computational capabilities."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "lifestyle": {
+    "title": "Lifestyle",
+    "items": [
+      {
+        "id": "life-001",
+        "title": "Wellness Trend Transforms Urban Living Spaces",
+        "slug": "wellness-trend-transforms-urban-living",
+        "summary": "City dwellers embrace biophilic design and mindfulness practices to create healthier home environments.",
+        "content": "<p>The concept of wellness-centered living is gaining momentum in urban areas...</p>",
+        "publishedAt": "2024-09-05T20:00:00Z",
+        "author": {
+          "id": "auth-010",
+          "name": "Maria Santos",
+          "bio": "Lifestyle and wellness writer focusing on modern living trends.",
+          "avatar": "/assets/authors/maria-santos.jpg"
+        },
+        "section": "lifestyle",
+        "categories": ["Wellness", "Design", "Urban Living"],
+        "tags": ["wellness", "design", "urban", "lifestyle"],
+        "readingTime": 6,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Modern apartment with plants and natural lighting",
+            "credits": "Lifestyle Magazine",
+            "sources": [
+              {"url": "/assets/images/wellness-home-1200.jpg", "width": 1200},
+              {"url": "/assets/images/wellness-home-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Wellness Design Transforms City Living",
+          "ogDescription": "Urban dwellers create healthier home environments."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "opinion": {
+    "title": "Opinion",
+    "items": [
+      {
+        "id": "op-001",
+        "title": "The Future of Remote Work: A Paradigm Shift",
+        "slug": "future-remote-work-paradigm-shift",
+        "summary": "Expert analysis on how permanent remote work policies are reshaping corporate culture and urban development.",
+        "content": "<p>The global shift to remote work has fundamentally changed how we think about employment...</p>",
+        "publishedAt": "2024-09-05T18:30:00Z",
+        "author": {
+          "id": "auth-011",
+          "name": "Dr. Jennifer Adams",
+          "bio": "Workplace psychology expert and organizational behavior consultant.",
+          "avatar": "/assets/authors/jennifer-adams.jpg"
+        },
+        "section": "opinion",
+        "categories": ["Work", "Society", "Future"],
+        "tags": ["remote work", "workplace", "society", "future"],
+        "readingTime": 8,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Person working from home office setup",
+            "credits": "Workplace Today",
+            "sources": [
+              {"url": "/assets/images/remote-work-1200.jpg", "width": 1200},
+              {"url": "/assets/images/remote-work-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Remote Work's Lasting Impact on Society",
+          "ogDescription": "Expert analysis on workplace transformation and urban development."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "local": {
+    "title": "Local",
+    "items": [
+      {
+        "id": "local-001",
+        "title": "City Council Approves Major Infrastructure Project",
+        "slug": "city-council-infrastructure-project",
+        "summary": "Multi-billion dollar investment will modernize transportation networks and create thousands of jobs.",
+        "content": "<p>Local officials have given the green light to an ambitious infrastructure initiative...</p>",
+        "publishedAt": "2024-09-05T17:00:00Z",
+        "author": {
+          "id": "auth-012",
+          "name": "Tom Wilson",
+          "bio": "Local government and community affairs reporter.",
+          "avatar": "/assets/authors/tom-wilson.jpg"
+        },
+        "section": "local",
+        "categories": ["Government", "Infrastructure", "Community"],
+        "tags": ["infrastructure", "government", "local", "development"],
+        "readingTime": 4,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "City council meeting with officials voting",
+            "credits": "City News Network",
+            "sources": [
+              {"url": "/assets/images/city-council-1200.jpg", "width": 1200},
+              {"url": "/assets/images/city-council-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Major Infrastructure Project Gets Approval",
+          "ogDescription": "City council approves multi-billion dollar investment."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Local"
+      }
+    ]
+  },
+  "latest": {
+    "title": "Latest",
+    "pagination": {
+      "page": 1,
+      "perPage": 20
+    },
+    "items": [
+      {
+        "id": "lat-001",
+        "title": "Breaking: Major Economic Announcement Expected Today",
+        "slug": "major-economic-announcement-expected",
+        "summary": "Government sources hint at significant policy changes that could impact global markets.",
+        "content": "<p>Economic observers are closely watching for what could be a game-changing announcement...</p>",
+        "publishedAt": "2024-09-06T09:45:00Z",
+        "author": {
+          "id": "auth-004",
+          "name": "David Kim",
+          "bio": "International economics correspondent.",
+          "avatar": "/assets/authors/david-kim.jpg"
+        },
+        "section": "business",
+        "categories": ["Economics", "Policy", "Markets"],
+        "tags": ["economics", "policy", "markets", "breaking"],
+        "readingTime": 3,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Government building with reporters gathering outside",
+            "credits": "News Wire Service",
+            "sources": [
+              {"url": "/assets/images/government-announcement-1200.jpg", "width": 1200},
+              {"url": "/assets/images/government-announcement-800.jpg", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Major Economic Announcement Expected",
+          "ogDescription": "Government sources hint at significant policy changes."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "trending": {
+    "items": [
+      {
+        "id": "hero-001",
+        "title": "Global Climate Summit Reaches Historic Agreement",
+        "slug": "global-climate-summit-historic-agreement",
+        "summary": "World leaders unite to commit to ambitious carbon reduction targets.",
+        "publishedAt": "2024-09-06T08:00:00Z",
+        "author": {
+          "id": "auth-001",
+          "name": "Sarah Chen",
+          "bio": "Environmental correspondent.",
+          "avatar": "/assets/authors/sarah-chen.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Environment", "Policy"],
+        "tags": ["climate change", "summit"],
+        "readingTime": 8,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "/assets/images/climate-summit-400.jpg", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-002",
+        "title": "Tech Giant Unveils Revolutionary AI Assistant",
+        "slug": "tech-giant-revolutionary-ai-assistant",
+        "summary": "Advanced artificial intelligence system promises workplace transformation.",
+        "publishedAt": "2024-09-06T07:30:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["AI", "Technology"],
+        "tags": ["AI", "technology"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "/assets/images/ai-assistant-400.jpg", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-003",
+        "title": "Championship Final Breaks Viewership Records",
+        "slug": "championship-final-viewership-records",
+        "summary": "Over 2 billion viewers watch historic sporting event.",
+        "publishedAt": "2024-09-06T06:00:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Sports", "Records"],
+        "tags": ["championship", "sports"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "/assets/images/championship-400.jpg", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  }
+}
