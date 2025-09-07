@@ -1,0 +1,715 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2025-10-28T05:00:00Z"
+  },
+  "hero": {
+    "title": "Top Stories",
+    "layout": "carousel",
+    "items": [
+      {
+        "id": "hero-001",
+        "title": "COP29 Climate Summit Yields $300B Finance Agreement",
+        "slug": "cop29-climate-summit-finance-agreement",
+        "summary": "At the COP29 climate summit in Baku, nearly 200 countries agreed to a landmark climate finance fund of $300 billion per year to aid developing nations in combating climate change, a major increase over previous commitments.",
+        "content": "<p>In a historic outcome at COP29, delegates agreed on a climate finance package of $300 billion annually to support poorer nations' transition away from fossil fuels. This triples the prior $100B goal and was negotiated under intense pressure from vulnerable countries. Negotiators said the money – aimed at clean energy and adaptation – is an important ‘down payment’ on global climate efforts, though many activists criticized it as far short of the funds needed.</p>",
+        "publishedAt": "2025-11-24T08:00:00Z",
+        "updatedAt": "2025-11-24T09:15:00Z",
+        "author": {
+          "id": "auth-001",
+          "name": "Sarah Chen",
+          "bio": "Environmental correspondent with 15 years of experience covering climate policy.",
+          "avatar": "/assets/authors/sarah-chen.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Environment", "Policy", "International"],
+        "tags": ["climate change", "summit", "finance", "policy"],
+        "readingTime": 8,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "World leaders at COP29 climate summit podium",
+            "credits": "UNFCC/Kiara Worth",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?climate,summit", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?climate,summit", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?climate,summit", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Historic Climate Finance Deal Reached at COP29",
+          "ogDescription": "Nations commit to $300B annual fund for developing countries to fight climate change."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-002",
+        "title": "Google Unveils 'Gemini for Home' AI Assistant",
+        "slug": "google-gemini-home-ai-assistant",
+        "summary": "At its annual event, Google introduced 'Gemini for Home', a new AI-powered assistant for Nest speakers and displays. The assistant, built on the advanced Gemini AI models, promises more natural conversations and on-demand expertise for household tasks.",
+        "content": "<p>Google announced a new AI assistant called 'Gemini for Home', which will replace its existing Google Assistant on Nest devices. Powered by Google’s latest Gemini models, the assistant offers more conversational control and embedded expert knowledge for everyday tasks. In demos, the system could handle complex queries, from planning recipes to explaining difficult concepts. Google says a public preview begins in October, with a full rollout expected soon thereafter.</p>",
+        "publishedAt": "2025-08-20T07:30:00Z",
+        "updatedAt": "2025-08-20T08:30:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter covering AI and emerging technologies.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["Artificial Intelligence", "Technology", "Business"],
+        "tags": ["AI", "technology", "innovation", "productivity"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Google product launch event with AI visuals",
+            "credits": "Google",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?technology,ai", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?technology,ai", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?technology,ai", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Google Introduces Gemini-Powered AI for Home Devices",
+          "ogDescription": "Advanced AI assistant promises smarter interactions on Nest speakers and displays."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-003",
+        "title": "Women's World Cup Final Breaks Global Viewership Records",
+        "slug": "womens-world-cup-final-viewership-records",
+        "summary": "Last month’s FIFA Women’s World Cup final between Spain and England drew record global audiences, with an estimated reach exceeding 2 billion viewers worldwide.",
+        "content": "<p>The 2023 FIFA Women’s World Cup final shattered viewing records. Organizers estimate that the match reached over 2 billion people globally, making it one of the most-watched sports events in history. National broadcasters reported unprecedented numbers: in Spain, the final peaked at 7.4 million TV viewers, while in the UK a combined 14.4 million tuned in. Stadium attendance also hit new highs, with nearly 1.9 million fans attending matches throughout the tournament.</p>",
+        "publishedAt": "2025-02-10T06:00:00Z",
+        "updatedAt": "2025-02-10T06:30:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist covering major international competitions.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Sports", "Entertainment", "Records"],
+        "tags": ["championship", "viewership", "women's soccer", "records"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Packed stadium during Women's World Cup final",
+            "credits": "Sports Media Network",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?soccer,stadium", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?soccer,stadium", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?soccer,stadium", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Record-Breaking Audience for Women's World Cup Final",
+          "ogDescription": "Over 2 billion viewers worldwide watch historic soccer championship."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "geopolitics": {
+    "title": "Geopolitics",
+    "items": [
+      {
+        "id": "geo-001",
+        "title": "Taiwan and U.S. Sign Landmark Trade Pact",
+        "slug": "taiwan-us-trade-initiative-agreement",
+        "summary": "Taiwan and the United States formalized their first trade agreement under a new initiative, focusing on areas like anti-corruption and customs. Officials hope the deal will deepen economic ties between Taipei and Washington.",
+        "content": "<p>In early 2025, Taiwan and the U.S. announced the first deal under their \"21st Century Trade Initiative,\" covering measures to streamline customs and combat corruption. U.S. Trade Representative Katherine Tai called it an \"important step forward\" in bilateral economic relations. Observers say the agreement paves the way for broader trade cooperation, even as comprehensive free trade negotiations remain stalled.</p>",
+        "publishedAt": "2025-01-15T05:45:00Z",
+        "author": {
+          "id": "auth-004",
+          "name": "David Kim",
+          "bio": "International economics correspondent.",
+          "avatar": "/assets/authors/david-kim.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Trade", "Economics", "Asia"],
+        "tags": ["trade", "economics", "international relations", "taiwan"],
+        "readingTime": 7,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Flags of Taiwan and the U.S. during trade talks",
+            "credits": "Taiwan Ministry of Economic Affairs",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?trading,economy", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?trading,economy", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?trading,economy", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Taiwan-US Trade Initiative Results in New Agreement",
+          "ogDescription": "First deal under 21st Century Trade Initiative strengthens economic ties."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "geo-002",
+        "title": "Iran and Saudi Arabia Restore Diplomatic Relations",
+        "slug": "iran-saudi-arabia-restore-diplomatic-ties",
+        "summary": "Iran and Saudi Arabia agreed to end a seven-year diplomatic freeze by reopening embassies and resuming official ties. The deal, announced after talks in Beijing, could ease longstanding regional tensions.",
+        "content": "<p>In a breakthrough mediated by China, Iran and Saudi Arabia announced the resumption of diplomatic relations in early 2025. The agreement calls for the reopening of embassies within two months, signaling an end to hostilities that began in 2016. Chinese officials praised the outcome, and analysts say it may lead to greater regional stability in the Middle East.</p>",
+        "publishedAt": "2025-01-10T18:20:00Z",
+        "author": {
+          "id": "auth-005",
+          "name": "Rachel Foster",
+          "bio": "Diplomatic affairs specialist with 20 years of experience.",
+          "avatar": "/assets/authors/rachel-foster.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Diplomacy", "International Relations", "Middle East"],
+        "tags": ["diplomacy", "international relations", "peace", "saudi arabia"],
+        "readingTime": 5,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Iranian and Saudi leaders meet and shake hands",
+            "credits": "Associated Press",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?diplomacy,handshake", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?diplomacy,handshake", "width": 800},
+              {"url": "https://source.unsplash.com/400x300/?diplomacy,handshake", "width": 400}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Historic Diplomatic Breakthrough in Middle East",
+          "ogDescription": "Former rivals Iran and Saudi Arabia agree to restore ties."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "brands": {
+    "title": "Brands",
+    "sponsored": true,
+    "items": [
+      {
+        "id": "brand-001",
+        "title": "Luxury Brand Launches Sustainable Fashion Collection",
+        "slug": "luxury-brand-sustainable-collection",
+        "summary": "Luxury fashion label Gucci has unveiled a new sustainable collection, featuring clothing and accessories made from recycled and eco-friendly materials. The line aims to reduce environmental impact and reflects a broader industry push toward greener practices.",
+        "content": "<p>Gucci’s latest ‘Off The Grid’ collection exemplifies the luxury industry’s shift to sustainable practices, with each item thoughtfully made using recycled, organic, bio-based, or sustainably sourced materials. The fashion house says the new line – which includes bags, sneakers, and apparel – is part of a multi-year effort to reduce waste and carbon emissions. Analysts note that several high-end brands are rolling out similar eco-friendly lines as consumers demand greener fashion.</p>",
+        "publishedAt": "2024-10-01T04:30:00Z",
+        "author": {
+          "id": "auth-006",
+          "name": "Isabella Martinez",
+          "bio": "Fashion and lifestyle journalist.",
+          "avatar": "/assets/authors/isabella-martinez.jpg"
+        },
+        "section": "brands",
+        "categories": ["Fashion", "Sustainability", "Luxury"],
+        "tags": ["fashion", "sustainability", "luxury", "eco-friendly"],
+        "readingTime": 4,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Models showcase sustainable fashion pieces",
+            "credits": "Brand Media",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?sustainable,fashion", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?sustainable,fashion", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Luxury Brand Goes Green with Sustainable Collection",
+          "ogDescription": "Gucci launches eco-conscious line made from recycled materials."
+        },
+        "sponsored": true,
+        "sponsor": {
+          "name": "EcoLux Fashion",
+          "logo": "/assets/sponsors/ecolux-logo.png"
+        },
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "business": {
+    "title": "Business",
+    "items": [
+      {
+        "id": "bus-001",
+        "title": "European AI Startup Nears $10B Valuation",
+        "slug": "mistral-ai-10-billion-valuation",
+        "summary": "French AI startup Mistral is reportedly in talks for a new funding round that would value the company at about $10 billion, potentially making it Europe’s latest 'decacorn'. The funding would accelerate development of its large AI models.",
+        "content": "<p>According to industry reports, Mistral – a Paris-based artificial intelligence startup – is negotiating a $1 billion funding round at a $10 billion valuation. This boost, if finalized, would crown Mistral a 'decacorn'. The company specializes in large-language models for enterprise applications. Analysts say the infusion of capital will help Mistral scale its products and compete with U.S. tech giants in the AI race.</p>",
+        "publishedAt": "2025-08-01T03:15:00Z",
+        "author": {
+          "id": "auth-007",
+          "name": "Alex Johnson",
+          "bio": "Business reporter specializing in startups and venture capital.",
+          "avatar": "/assets/authors/alex-johnson.jpg"
+        },
+        "section": "business",
+        "categories": ["Startups", "Venture Capital", "Artificial Intelligence"],
+        "tags": ["startup", "funding", "AI", "valuation"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Team of entrepreneurs celebrating funding success",
+            "credits": "Mistral.ai",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?startup,office", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?startup,office", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Mistral AI Startup Approaches $10B Valuation",
+          "ogDescription": "Major funding round would elevate European AI firm to decacorn status."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "bus-002",
+        "title": "Markets Rally to Best Quarterly Gains in Years",
+        "slug": "market-recovery-strong-growth-momentum",
+        "summary": "Global stock markets enjoyed a strong quarter, with U.S. indexes hitting record highs amid easing trade tensions and optimism about rate cuts. The S&P 500 and Nasdaq each rose by double digits, marking their best quarterly performance in over a year.",
+        "content": "<p>Stocks surged at the end of the quarter, as reported by financial news outlets. In the U.S., the S&P 500 and Nasdaq reached record levels, closing the period up roughly 10.6% and 17.8% respectively. Analysts attributed the rally to positive trade developments and growing bets on future interest rate cuts. European and Asian markets saw similar gains, reflecting a global rebound in investor confidence.</p>",
+        "publishedAt": "2025-07-01T16:45:00Z",
+        "author": {
+          "id": "auth-008",
+          "name": "Robert Chen",
+          "bio": "Senior financial markets analyst.",
+          "avatar": "/assets/authors/robert-chen.jpg"
+        },
+        "section": "business",
+        "categories": ["Markets", "Finance", "Economy"],
+        "tags": ["markets", "recovery", "growth", "economy"],
+        "readingTime": 5,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Financial chart showing upward trends",
+            "credits": "Financial Times",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?stock-market,graph", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?stock-market,graph", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Markets Post Strongest Quarter in Years",
+          "ogDescription": "Global stocks rally as investor optimism returns."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "entertainment": {
+    "title": "Entertainment",
+    "items": [
+      {
+        "id": "ent-001",
+        "title": "Minecraft Movie Tops Global Box Office",
+        "slug": "minecraft-movie-box-office-record",
+        "summary": "The recently released 'Minecraft' movie has become a global box-office sensation, grossing nearly $1 billion worldwide. Its success, along with other blockbusters this quarter, has boosted studio revenues and contributed to Warner Bros Discovery’s unexpectedly strong earnings.",
+        "content": "<p>Warner Bros reported that its latest gaming adaptation, “A Minecraft Movie,” has dominated theaters globally, earning close to $1 billion in ticket sales. This figure makes it one of the year’s biggest hits, significantly contributing to a 55% jump in studio revenue for the quarter. The film’s success has been cited as a key factor in the entertainment division’s strong financial results.</p>",
+        "publishedAt": "2025-08-07T02:00:00Z",
+        "author": {
+          "id": "auth-009",
+          "name": "Sophie Williams",
+          "bio": "Entertainment industry reporter covering film and television.",
+          "avatar": "/assets/authors/sophie-williams.jpg"
+        },
+        "section": "entertainment",
+        "categories": ["Film", "Box Office", "Entertainment"],
+        "tags": ["movies", "box office", "records", "film"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Audience watching a movie in a packed theater",
+            "credits": "Entertainment Weekly",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?movie,theater", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?movie,theater", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Minecraft Movie Breaks Box Office Records",
+          "ogDescription": "Video game film becomes a worldwide hit with nearly $1B in sales."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "sports": {
+    "title": "Sports",
+    "items": [
+      {
+        "id": "spt-001",
+        "title": "Rookie Leads Underdog Team to Championship Victory",
+        "slug": "rookie-sensation-championship-victory",
+        "summary": "In a stunning upset, an underdog team won the championship thanks to a standout performance by a first-year player. Fans and pundits hailed the victory as one of the most exciting sports stories of the season.",
+        "content": "<p>For the first time in decades, a team captured the title with the help of a rookie star. The first-year player delivered clutch plays in the final game, securing the championship win. The unexpected triumph has been widely celebrated and is seen as a testament to the team’s resilience and talent.</p>",
+        "publishedAt": "2025-06-30T01:30:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist covering major international competitions.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Championship", "Sports", "Athletes"],
+        "tags": ["championship", "rookie", "victory", "underdog"],
+        "readingTime": 5,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Young athlete celebrating with championship trophy",
+            "credits": "Sports Illustrated",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?athlete,champion", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?athlete,champion", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Rookie Sensation Propels Team to Title",
+          "ogDescription": "First-year player’s performance secures historic championship win."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "technology": {
+    "title": "Technology",
+    "items": [
+      {
+        "id": "tech-001",
+        "title": "Scientists Demonstrate Certified Randomness with Quantum Computer",
+        "slug": "quantum-computing-certified-randomness",
+        "summary": "A joint research team used a 56-qubit quantum processor to generate and certify truly random numbers, a breakthrough that marks one of the first practical quantum computing applications. This advance could have future uses in cryptography and complex simulations.",
+        "content": "<p>Researchers from Quantinuum, JPMorganChase, and national labs successfully demonstrated 'certified randomness' using a 56-qubit trapped-ion quantum computer. They generated random bits that were verified by classical supercomputers as genuinely unpredictable. Experts say this achievement opens the door to using quantum devices for real-world tasks like secure cryptography and large-scale simulations previously beyond classical capabilities.</p>",
+        "publishedAt": "2025-08-13T22:15:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter covering AI and emerging technologies.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["Quantum Computing", "Research", "Innovation"],
+        "tags": ["quantum", "computing", "research", "breakthrough"],
+        "readingTime": 7,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Quantum computing laboratory setup",
+            "credits": "Tech Research Institute",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?quantum,lab", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?quantum,lab", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Quantum Computing Breakthrough Achieved",
+          "ogDescription": "56-qubit processor used to generate certified randomness."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "lifestyle": {
+    "title": "Lifestyle",
+    "items": [
+      {
+        "id": "life-001",
+        "title": "Wellness Design Trends Transform Urban Homes",
+        "slug": "wellness-trend-transforms-urban-living",
+        "summary": "City dwellers are increasingly embracing biophilic design and mindfulness features in their homes, part of a booming 'wellness real estate' trend. Industry reports project the wellness-focused housing market will double to $1.1 trillion by 2029.",
+        "content": "<p>Experts say urban residents are prioritizing health-focused home design, such as indoor plants, natural light, and meditation spaces. A recent report by the Global Wellness Institute notes that the wellness real estate market grew to $548 billion in 2024 and is expected to reach $1.1 trillion by 2029. Architects and developers cite examples like vertical gardens and multi-sensory lighting as key features of the trend.</p>",
+        "publishedAt": "2025-06-17T20:00:00Z",
+        "author": {
+          "id": "auth-010",
+          "name": "Maria Santos",
+          "bio": "Lifestyle and wellness writer focusing on modern living trends.",
+          "avatar": "/assets/authors/maria-santos.jpg"
+        },
+        "section": "lifestyle",
+        "categories": ["Wellness", "Urban Living", "Design"],
+        "tags": ["wellness", "design", "urban", "lifestyle"],
+        "readingTime": 6,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Modern urban apartment with indoor plants",
+            "credits": "Lifestyle Magazine",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?apartment,plants", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?apartment,plants", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Wellness Design Transforms City Living",
+          "ogDescription": "Home designs add nature and mindfulness for healthier urban lifestyle."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "opinion": {
+    "title": "Opinion",
+    "items": [
+      {
+        "id": "op-001",
+        "title": "The Future of Remote Work: A Paradigm Shift",
+        "slug": "future-remote-work-paradigm-shift",
+        "summary": "Experts say that permanent remote work policies are reshaping corporate culture and urban development. A recent analysis notes that about 15% of U.S. jobs are currently done remotely, and up to one-third could potentially be handled from home.",
+        "content": "<p>Georgetown University researchers argue that remote work will have lasting societal impacts. They report that while roughly 15% of jobs are currently performed remotely, this figure could rise dramatically with continued hybrid work policies. Urban planners note that cities are already adapting by encouraging downtown housing conversions and investing in suburban infrastructure. Long-term, experts believe remote work will change commuting patterns and office usage, making flexibility a permanent feature of work life.</p>",
+        "publishedAt": "2025-09-05T18:30:00Z",
+        "author": {
+          "id": "auth-011",
+          "name": "Dr. Jennifer Adams",
+          "bio": "Workplace psychology expert and organizational behavior consultant.",
+          "avatar": "/assets/authors/jennifer-adams.jpg"
+        },
+        "section": "opinion",
+        "categories": ["Work", "Society", "Future"],
+        "tags": ["remote work", "workplace", "society", "future"],
+        "readingTime": 8,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "Person working from home in a modern office setup",
+            "credits": "Workplace Today",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?work-from-home,office", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?work-from-home,office", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Remote Work’s Lasting Impact on Society",
+          "ogDescription": "Expert analysis on how remote work is reshaping corporate culture and cities."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "local": {
+    "title": "Local",
+    "items": [
+      {
+        "id": "local-001",
+        "title": "Government Approves Major Infrastructure Investment Plan",
+        "slug": "government-infrastructure-project-approval",
+        "summary": "National leaders approved a multi-billion-dollar infrastructure initiative, including the creation of 12 new 'smart industrial cities'. The plan is projected to generate up to 4 million jobs, dramatically reshaping the domestic economy.",
+        "content": "<p>The country’s cabinet recently gave the green light to a vast infrastructure package. The centerpiece is the development of 12 smart industrial cities under the National Industrial Corridor program, with an investment of around $3.4 billion. Officials estimate that this and related projects could create roughly 1 million direct jobs and 3 million indirect jobs. The plan also includes upgrades to rail networks and power grids, signaling a significant boost to economic development.</p>",
+        "publishedAt": "2024-08-28T17:00:00Z",
+        "author": {
+          "id": "auth-012",
+          "name": "Tom Wilson",
+          "bio": "Local government and community affairs reporter.",
+          "avatar": "/assets/authors/tom-wilson.jpg"
+        },
+        "section": "local",
+        "categories": ["Government", "Infrastructure", "Community"],
+        "tags": ["infrastructure", "government", "jobs", "development"],
+        "readingTime": 4,
+        "featured": false,
+        "images": {
+          "lead": {
+            "alt": "City council meeting in progress with officials voting",
+            "credits": "City News Network",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?city-council,meeting", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?city-council,meeting", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Infrastructure Mega-Project Gets Approval",
+          "ogDescription": "Multi-billion-dollar investment to modernize cities and create jobs."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Local"
+      }
+    ]
+  },
+  "latest": {
+    "title": "Latest",
+    "pagination": {
+      "page": 1,
+      "perPage": 20
+    },
+    "items": [
+      {
+        "id": "lat-001",
+        "title": "Breaking: Major Economic Announcement Expected Today",
+        "slug": "major-economic-announcement-expected",
+        "summary": "Reports indicate that government officials are planning a significant economic policy announcement later today, which could have wide-reaching impacts on markets.",
+        "content": "<p>Economists and analysts are closely watching for an official announcement on fiscal or monetary measures that may come today. Speculation is rife that the government could unveil tax or stimulus changes aimed at spurring growth. Investors remain on alert as news unfolds.</p>",
+        "publishedAt": "2025-09-06T09:45:00Z",
+        "author": {
+          "id": "auth-004",
+          "name": "David Kim",
+          "bio": "International economics correspondent.",
+          "avatar": "/assets/authors/david-kim.jpg"
+        },
+        "section": "business",
+        "categories": ["Economics", "Policy", "Markets"],
+        "tags": ["economics", "policy", "markets", "breaking"],
+        "readingTime": 3,
+        "featured": true,
+        "images": {
+          "lead": {
+            "alt": "Government building with reporters outside",
+            "credits": "News Wire Service",
+            "sources": [
+              {"url": "https://source.unsplash.com/1200x800/?government,building", "width": 1200},
+              {"url": "https://source.unsplash.com/800x600/?government,building", "width": 800}
+            ]
+          }
+        },
+        "social": {
+          "ogTitle": "Major Economic Announcement Expected",
+          "ogDescription": "Officials are hinting at significant policy changes today."
+        },
+        "sponsored": false,
+        "sponsor": null,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  },
+  "trending": {
+    "items": [
+      {
+        "id": "hero-001",
+        "title": "COP29 Climate Summit Yields $300B Finance Agreement",
+        "slug": "cop29-climate-summit-finance-agreement",
+        "summary": "Nearly 200 nations agreed on a landmark climate finance fund of $300 billion per year for developing countries to combat global warming.",
+        "publishedAt": "2025-11-24T08:00:00Z",
+        "author": {
+          "id": "auth-001",
+          "name": "Sarah Chen",
+          "bio": "Environmental correspondent.",
+          "avatar": "/assets/authors/sarah-chen.jpg"
+        },
+        "section": "geopolitics",
+        "categories": ["Environment", "Policy"],
+        "tags": ["climate change", "summit"],
+        "readingTime": 8,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "https://source.unsplash.com/400x300/?climate,finance", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-002",
+        "title": "Google Unveils 'Gemini for Home' AI Assistant",
+        "slug": "google-gemini-home-ai-assistant",
+        "summary": "Google introduced a new AI-powered voice assistant for its Nest devices, promising more natural and helpful interactions.",
+        "publishedAt": "2025-08-20T07:30:00Z",
+        "author": {
+          "id": "auth-002",
+          "name": "Michael Rodriguez",
+          "bio": "Senior technology reporter.",
+          "avatar": "/assets/authors/michael-rodriguez.jpg"
+        },
+        "section": "technology",
+        "categories": ["AI", "Technology"],
+        "tags": ["AI", "technology"],
+        "readingTime": 6,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "https://source.unsplash.com/400x300/?ai,assistant", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      },
+      {
+        "id": "hero-003",
+        "title": "Women's World Cup Final Breaks Global Viewership Records",
+        "slug": "womens-world-cup-final-viewership-records",
+        "summary": "The 2023 FIFA Women’s World Cup final drew an unprecedented audience, with an estimated global reach exceeding 2 billion viewers.",
+        "publishedAt": "2025-02-10T06:00:00Z",
+        "author": {
+          "id": "auth-003",
+          "name": "Emma Thompson",
+          "bio": "Sports journalist.",
+          "avatar": "/assets/authors/emma-thompson.jpg"
+        },
+        "section": "sports",
+        "categories": ["Sports", "Records"],
+        "tags": ["championship", "sports"],
+        "readingTime": 4,
+        "featured": true,
+        "images": {
+          "lead": {
+            "sources": [{"url": "https://source.unsplash.com/400x300/?sports,record", "width": 400}]
+          }
+        },
+        "sponsored": false,
+        "language": "en",
+        "region": "Global"
+      }
+    ]
+  }
+}
