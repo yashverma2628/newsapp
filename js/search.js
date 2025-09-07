@@ -3,8 +3,8 @@
  * Handles client-side search functionality with fuzzy matching
  */
 
-import dataLoader from './loader.js';
-import { searchResultsTemplate } from './templates.js';
+import dataLoader from '.loader.js';
+import { searchResultsTemplate } from '.templates.js';
 
 class SearchEngine {
     constructor() {
@@ -657,4 +657,5 @@ export default {
     getSearchSuggestions,
     getAvailableFilters,
     searchEngine
+
 };
