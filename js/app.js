@@ -3,9 +3,9 @@
  * Bootstraps the homepage and handles global functionality
  */
 
-import dataLoader from '.loader.js';
-import { renderHomepage, renderSearchModal } from '.renderers.js';
-import { initSearch } from '.search.js';
+import dataLoader from './loader.js';
+import { renderHomepage, renderSearchModal } from './renderers.js';
+import { initSearch } from './search.js';
 
 class NewsApp {
     constructor() {
