@@ -3,9 +3,9 @@
  * Handles loading and rendering of individual article pages
  */
 
-import dataLoader from './loader.js';
-import { renderArticlePage, renderSearchModal } from './renderers.js';
-import { initSearch } from './search.js';
+import dataLoader from '.loader.js';
+import { renderArticlePage, renderSearchModal } from '.renderers.js';
+import { initSearch } from '.search.js';
 
 class ArticlePageLoader {
     constructor() {
@@ -766,3 +766,4 @@ if (document.readyState === 'loading') {
 
 // Export for module usage
 export default ArticlePageLoader;
+
